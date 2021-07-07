@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a3d8945939b70e4aad947d3fa6118f8, type: 3}
+  m_Name: Grenade
+  m_EditorClassIdentifier: 
+  id: 8601a5aa-7d87-4410-b993-10eadd35bf0e
+  displayName: Grenade
+  description: Grenade RGD - 5
+  group: Grenade
+  space: 1
+  image: {fileID: 21300022, guid: 5163ae49a0de665458bba61cd20c99b1, type: 3}
+  drop: {fileID: 0}
